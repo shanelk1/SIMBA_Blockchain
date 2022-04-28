@@ -96,7 +96,8 @@ Quant, Overledger, Carda, Diem, Hedera Hashgraph, Cardano
 
 
 ## UNIQUE STORY TIME 
-![application-image](https://user-images.githubusercontent.com/89318890/165781421-a86ddfb6-1e8e-4777-8bfd-3f62c5f352c2.png)
+![TOKS Coffee](https://user-images.githubusercontent.com/89318890/165781729-f331ba87-ec42-44b7-9c14-7b9547612e33.jpeg)
+
 
 
 
